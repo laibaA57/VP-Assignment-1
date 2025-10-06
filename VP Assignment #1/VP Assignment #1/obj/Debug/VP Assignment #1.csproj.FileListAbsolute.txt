@@ -1,0 +1,2 @@
+C:\Users\Administrator\source\repos\VP Assignment #1\VP Assignment #1\obj\Debug\VP Assignment #1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\VP Assignment #1\VP Assignment #1\obj\Debug\VP Assignment #1.csproj.CoreCompileInputs.cache
